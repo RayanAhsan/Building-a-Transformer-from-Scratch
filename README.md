@@ -10,7 +10,7 @@ The implementation includes:
 - Positional Encoding
 - Masking (padding and look-ahead)
 
-  **Motivation**
+**Motivation**
   
 When the Transformer paper was released, it reshaped the field of NLP by:
 
