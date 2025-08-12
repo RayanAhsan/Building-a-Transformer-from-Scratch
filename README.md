@@ -1,5 +1,8 @@
 **Overview**
 
+<img width="505" height="531" alt="image" src="https://github.com/user-attachments/assets/10a32018-e7c1-47ba-a722-680385a9be48" />
+
+
 This project is a from-scratch implementation of the Transformer architecture introduced in the landmark paper Attention Is All You Need (Vaswani et al., 2017).
 The goal was to understand and reproduce the core components of the Transformer without relying heavily on prebuilt high-level frameworks.
 
